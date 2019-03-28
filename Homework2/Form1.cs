@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Homework2
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form           // 메인 폼
     {
-        public partial class CustomForm : Form
+        public partial class CustomForm : Form      // 서브 폼 정의
         {
 
 
@@ -38,8 +38,8 @@ namespace Homework2
                     MessageBox.Show("마지막 줄의 버튼입니다.", "다음 줄 테스트");
                 }
             }
-            public void DeleteFormClicked(object sender, EventArgs e)
-            {
+            public void DeleteFormClicked(object sender, EventArgs e)       // 별도의 FormCnt연산의 경우 위 함수 실행후
+            {                                                               // FormClosedEventHandler 함께 실행하므로 신경x
                 if (FormCnt <= 1) MessageBox.Show("모두 지웠습니다.", "그만지워");
                 else
                 {
@@ -48,7 +48,7 @@ namespace Homework2
             }
             
 
-            public CustomForm()
+            public CustomForm()             // 첫번째 폼 정의 메뉴바를 위해 default 생성자로 구현
             {
                 FormCnt++;
 
@@ -75,7 +75,7 @@ namespace Homework2
                 Controls.Add(mainMenu);
                 
             }
-            public CustomForm(String title)
+            public CustomForm(String title)             // 두번째 세번째 폼, 생성자 오버로딩으로 구현
             {
                 this.Text = title + " 폼";
                 Button btn = new Button();
