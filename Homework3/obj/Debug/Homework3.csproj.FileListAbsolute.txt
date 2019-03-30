@@ -8,3 +8,13 @@ C:\Users\BangG\source\repos\WindowsFormsApp3\Homework3\obj\Debug\Homework3.cspro
 C:\Users\BangG\source\repos\WindowsFormsApp3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
 C:\Users\BangG\source\repos\WindowsFormsApp3\Homework3\obj\Debug\Homework3.exe
 C:\Users\BangG\source\repos\WindowsFormsApp3\Homework3\obj\Debug\Homework3.pdb
+C:\Users\BangG\Documents\test\class_CS\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\BangG\Documents\test\class_CS\Homework3\bin\Debug\Homework3.exe
+C:\Users\BangG\Documents\test\class_CS\Homework3\bin\Debug\Homework3.pdb
+C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.csprojAssemblyReference.cache
+C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.Form1.resources
+C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.Properties.Resources.resources
+C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.csproj.GenerateResource.cache
+C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.exe
+C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.pdb
