@@ -8,3 +8,6 @@ C:\Users\BangG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsF
 C:\Users\BangG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 C:\Users\BangG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 C:\Users\BangG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\KMU_USER\Documents\class_CS\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\KMU_USER\Documents\class_CS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\KMU_USER\Documents\class_CS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
