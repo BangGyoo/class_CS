@@ -8,6 +8,7 @@ C:\Users\BangG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsF
 C:\Users\BangG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 C:\Users\BangG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 C:\Users\BangG\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+<<<<<<< HEAD
 C:\Users\BangG\Documents\test\class_CS\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
 C:\Users\BangG\Documents\test\class_CS\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
 C:\Users\BangG\Documents\test\class_CS\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
@@ -18,3 +19,8 @@ C:\Users\BangG\Documents\test\class_CS\WindowsFormsApp3\obj\Debug\WindowsFormsAp
 C:\Users\BangG\Documents\test\class_CS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 C:\Users\BangG\Documents\test\class_CS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 C:\Users\BangG\Documents\test\class_CS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+=======
+C:\Users\KMU_USER\Documents\class_CS\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\KMU_USER\Documents\class_CS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\KMU_USER\Documents\class_CS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+>>>>>>> 20d4f5e3391dd44d436d952ac53e0676c4376deb
