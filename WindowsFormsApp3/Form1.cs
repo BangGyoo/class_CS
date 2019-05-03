@@ -99,10 +99,9 @@ namespace WindowsFormsApp3
 
             }
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            BackColor = Color.Brown;
         }
     }
 }

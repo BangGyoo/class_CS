@@ -1,0 +1,10 @@
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\bin\Debug\Homework2_2.exe.config
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\bin\Debug\Homework2_2.exe
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\bin\Debug\Homework2_2.pdb
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\obj\Debug\Homework2_2.csprojAssemblyReference.cache
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\obj\Debug\Homework2_2.Form1.resources
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\obj\Debug\Homework2_2.Properties.Resources.resources
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\obj\Debug\Homework2_2.csproj.GenerateResource.cache
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\obj\Debug\Homework2_2.csproj.CoreCompileInputs.cache
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\obj\Debug\Homework2_2.exe
+C:\Users\BangG\Documents\test\class_CS\Homework2_2\obj\Debug\Homework2_2.pdb
