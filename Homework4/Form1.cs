@@ -17,16 +17,6 @@ namespace Homework4
             InitializeComponent();
         }
 
-        private void Origin_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Change_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void leftShift_Click(object sender, EventArgs e)
         {
             int temp = int.Parse(Origin.Text);
