@@ -4,3 +4,9 @@ c:\users\kmu_user\documents\visual studio 2015\Projects\Homework6\Homework6\bin\
 c:\users\kmu_user\documents\visual studio 2015\Projects\Homework6\Homework6\obj\Debug\Homework6.csprojResolveAssemblyReference.cache
 c:\users\kmu_user\documents\visual studio 2015\Projects\Homework6\Homework6\obj\Debug\Homework6.exe
 c:\users\kmu_user\documents\visual studio 2015\Projects\Homework6\Homework6\obj\Debug\Homework6.pdb
+<<<<<<< HEAD
+=======
+C:\Users\KMU_USER\Desktop\class_CS\Homework6\bin\Debug\Homework6.exe.config
+C:\Users\KMU_USER\Desktop\class_CS\Homework6\obj\Debug\Homework6.exe
+C:\Users\KMU_USER\Desktop\class_CS\Homework6\obj\Debug\Homework6.pdb
+>>>>>>> 78656f11e0da88af4134cdd32f8dcc2ca671eded
