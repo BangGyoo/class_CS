@@ -8,13 +8,17 @@ namespace Homework7
 {
     abstract class AbstractDisplay
     {
-        protected virtual void Print() { }
-        protected virtual void Open() { }
-        protected virtual void Close() { }
-        
+        //protected virtual void Print() { }
+        //protected virtual void Open() { }
+        //protected virtual void Close() { }
+
+        protected abstract void Print();
+        protected abstract void Open();
+        protected abstract void Close();
+
         public void Write(char ch)
         {
-            for(int i=0; i<5; i++)
+            for (int i = 0; i < 5; i++)
                 Console.Write(ch);
         }
         public void Write(string str)
@@ -39,7 +43,7 @@ namespace Homework7
         }
         protected override void Open() { Write("<<"); }
         protected override void Print() { Write(ch); }
-        protected new void Close() { base.Close(); Write(">>"); }
+        protected override void Close() { Write(">>"); }
 
     }
     class StringDisplay : AbstractDisplay
