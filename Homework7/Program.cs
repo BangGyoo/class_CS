@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace Homework7
 {
@@ -16,19 +17,11 @@ namespace Homework7
         protected abstract void Open();
         protected abstract void Close();
 
-        public void Write(char ch)
-        {
-            for (int i = 0; i < 5; i++)
-                Console.Write(ch);
-        }
-        public void Write(string str)
-        {
-            Console.Write(str);
-        }
+        
         public void Display()     // 탬플릿 메소드 패턴 
         {
             Open();
-            Print();
+            for(int i=0; i<5; i++) Print();
             Close();
             
         }
@@ -43,7 +36,7 @@ namespace Homework7
         }
         protected override void Open() { Write("<<"); }
         protected override void Print() { Write(ch); }
-        protected override void Close() { Write(">>"); }
+        protected override void Close() { Write(">>\n"); }
 
     }
     class StringDisplay : AbstractDisplay
@@ -56,7 +49,7 @@ namespace Homework7
             this.width = str.Length;
         }
         protected override void Open() { PrintLine(); }
-        protected override void Print() { Write("|" + str + "|"); }
+        protected override void Print() { Write("|" + str + "|\n"); }
         protected override void Close() { PrintLine();  }
         void PrintLine()
         {
@@ -65,7 +58,7 @@ namespace Homework7
             {
                 Write("-");
             }
-            Write("+");
+            Write("+\n");
             
         }
         
