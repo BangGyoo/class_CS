@@ -10,3 +10,9 @@ C:\Users\KMU_USER\Desktop\class_CS\Homework6\bin\Debug\Homework6.exe.config
 C:\Users\KMU_USER\Desktop\class_CS\Homework6\obj\Debug\Homework6.exe
 C:\Users\KMU_USER\Desktop\class_CS\Homework6\obj\Debug\Homework6.pdb
 >>>>>>> 78656f11e0da88af4134cdd32f8dcc2ca671eded
+C:\Users\KMU_USER\Documents\class_CS\Homework6\bin\Debug\Homework6.exe.config
+C:\Users\KMU_USER\Documents\class_CS\Homework6\bin\Debug\Homework6.exe
+C:\Users\KMU_USER\Documents\class_CS\Homework6\bin\Debug\Homework6.pdb
+C:\Users\KMU_USER\Documents\class_CS\Homework6\obj\Debug\Homework6.csprojResolveAssemblyReference.cache
+C:\Users\KMU_USER\Documents\class_CS\Homework6\obj\Debug\Homework6.exe
+C:\Users\KMU_USER\Documents\class_CS\Homework6\obj\Debug\Homework6.pdb

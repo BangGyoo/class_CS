@@ -1,0 +1,6 @@
+C:\Users\KMU_USER\Documents\class_CS\Homework8\bin\Debug\Homework8.exe.config
+C:\Users\KMU_USER\Documents\class_CS\Homework8\bin\Debug\Homework8.exe
+C:\Users\KMU_USER\Documents\class_CS\Homework8\bin\Debug\Homework8.pdb
+C:\Users\KMU_USER\Documents\class_CS\Homework8\obj\Debug\Homework8.csprojResolveAssemblyReference.cache
+C:\Users\KMU_USER\Documents\class_CS\Homework8\obj\Debug\Homework8.exe
+C:\Users\KMU_USER\Documents\class_CS\Homework8\obj\Debug\Homework8.pdb

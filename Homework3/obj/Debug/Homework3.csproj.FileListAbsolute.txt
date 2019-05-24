@@ -18,3 +18,12 @@ C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.csproj.Gene
 C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
 C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.exe
 C:\Users\BangG\Documents\test\class_CS\Homework3\obj\Debug\Homework3.pdb
+C:\Users\KMU_USER\Documents\class_CS\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\KMU_USER\Documents\class_CS\Homework3\bin\Debug\Homework3.exe
+C:\Users\KMU_USER\Documents\class_CS\Homework3\bin\Debug\Homework3.pdb
+C:\Users\KMU_USER\Documents\class_CS\Homework3\obj\Debug\Homework3.csprojResolveAssemblyReference.cache
+C:\Users\KMU_USER\Documents\class_CS\Homework3\obj\Debug\Homework3.Form1.resources
+C:\Users\KMU_USER\Documents\class_CS\Homework3\obj\Debug\Homework3.Properties.Resources.resources
+C:\Users\KMU_USER\Documents\class_CS\Homework3\obj\Debug\Homework3.csproj.GenerateResource.Cache
+C:\Users\KMU_USER\Documents\class_CS\Homework3\obj\Debug\Homework3.exe
+C:\Users\KMU_USER\Documents\class_CS\Homework3\obj\Debug\Homework3.pdb
