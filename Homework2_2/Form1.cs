@@ -74,5 +74,10 @@ namespace Homework2_2
             Form x = formStack.Peek();
             if(formStack.Count != 1 ) x.Close();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
