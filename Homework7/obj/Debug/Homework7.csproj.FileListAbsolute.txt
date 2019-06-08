@@ -1,0 +1,7 @@
+C:\Users\KMU_USER\Documents\class_CS\Homework7\bin\Debug\Homework7.exe.config
+C:\Users\KMU_USER\Documents\class_CS\Homework7\bin\Debug\Homework7.exe
+C:\Users\KMU_USER\Documents\class_CS\Homework7\bin\Debug\Homework7.pdb
+C:\Users\KMU_USER\Documents\class_CS\Homework7\obj\Debug\Homework7.exe
+C:\Users\KMU_USER\Documents\class_CS\Homework7\obj\Debug\Homework7.pdb
+C:\Users\KMU_USER\Documents\class_CS\Homework7\obj\Debug\Homework7.csprojAssemblyReference.cache
+C:\Users\KMU_USER\Documents\class_CS\Homework7\obj\Debug\Homework7.csproj.CoreCompileInputs.cache

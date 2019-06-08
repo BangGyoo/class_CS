@@ -1,0 +1,16 @@
+C:\Users\KMU_USER\Downloads\class_CS-master\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\KMU_USER\Downloads\class_CS-master\Homework4\bin\Debug\Homework4.exe
+C:\Users\KMU_USER\Downloads\class_CS-master\Homework4\bin\Debug\Homework4.pdb
+C:\Users\KMU_USER\Downloads\class_CS-master\Homework4\obj\Debug\Homework4.csprojResolveAssemblyReference.cache
+C:\Users\KMU_USER\Downloads\class_CS-master\Homework4\obj\Debug\Homework4.Form1.resources
+C:\Users\KMU_USER\Downloads\class_CS-master\Homework4\obj\Debug\Homework4.Properties.Resources.resources
+C:\Users\KMU_USER\Downloads\class_CS-master\Homework4\obj\Debug\Homework4.csproj.GenerateResource.Cache
+C:\Users\KMU_USER\Downloads\class_CS-master\Homework4\obj\Debug\Homework4.exe
+C:\Users\KMU_USER\Downloads\class_CS-master\Homework4\obj\Debug\Homework4.pdb
+C:\Users\KMU_USER\Documents\class_CS\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\KMU_USER\Documents\class_CS\Homework4\obj\Debug\Homework4.exe
+C:\Users\KMU_USER\Documents\class_CS\Homework4\obj\Debug\Homework4.pdb
+C:\Users\KMU_USER\Documents\class_CS\Homework4\obj\Debug\Homework4.csprojResolveAssemblyReference.cache
+C:\Users\KMU_USER\Documents\class_CS\Homework4\obj\Debug\Homework4.Form1.resources
+C:\Users\KMU_USER\Documents\class_CS\Homework4\obj\Debug\Homework4.Properties.Resources.resources
+C:\Users\KMU_USER\Documents\class_CS\Homework4\obj\Debug\Homework4.csproj.GenerateResource.Cache
