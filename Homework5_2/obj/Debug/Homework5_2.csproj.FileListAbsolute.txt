@@ -1,7 +1,0 @@
-C:\Users\KMU_USER\Documents\class_CS\Homework5_2\bin\Debug\Homework5_2.exe.config
-C:\Users\KMU_USER\Documents\class_CS\Homework5_2\bin\Debug\Homework5_2.exe
-C:\Users\KMU_USER\Documents\class_CS\Homework5_2\bin\Debug\Homework5_2.pdb
-C:\Users\KMU_USER\Documents\class_CS\Homework5_2\obj\Debug\Homework5_2.exe
-C:\Users\KMU_USER\Documents\class_CS\Homework5_2\obj\Debug\Homework5_2.pdb
-C:\Users\user\Documents\BangGyoo\class_CS\Homework5_2\obj\Debug\Homework5_2.exe
-C:\Users\user\Documents\BangGyoo\class_CS\Homework5_2\obj\Debug\Homework5_2.pdb
