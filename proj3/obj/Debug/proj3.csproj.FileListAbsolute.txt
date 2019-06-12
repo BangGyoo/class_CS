@@ -1,0 +1,5 @@
+C:\Users\KMU_USER\class_CS\proj3\bin\Debug\proj3.exe.config
+C:\Users\KMU_USER\class_CS\proj3\bin\Debug\proj3.exe
+C:\Users\KMU_USER\class_CS\proj3\bin\Debug\proj3.pdb
+C:\Users\KMU_USER\class_CS\proj3\obj\Debug\proj3.exe
+C:\Users\KMU_USER\class_CS\proj3\obj\Debug\proj3.pdb

@@ -1,0 +1,6 @@
+C:\Users\KMU_USER\class_CS\Proj2\bin\Debug\Proj2.exe.config
+C:\Users\KMU_USER\class_CS\Proj2\bin\Debug\Proj2.exe
+C:\Users\KMU_USER\class_CS\Proj2\bin\Debug\Proj2.pdb
+C:\Users\KMU_USER\class_CS\Proj2\obj\Debug\Proj2.csprojResolveAssemblyReference.cache
+C:\Users\KMU_USER\class_CS\Proj2\obj\Debug\Proj2.exe
+C:\Users\KMU_USER\class_CS\Proj2\obj\Debug\Proj2.pdb

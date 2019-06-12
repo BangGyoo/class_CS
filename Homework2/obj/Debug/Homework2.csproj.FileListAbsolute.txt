@@ -27,3 +27,12 @@ C:\Users\KMU_USER\Documents\class_CS\Homework2\obj\Debug\Homework2.Properties.Re
 C:\Users\KMU_USER\Documents\class_CS\Homework2\obj\Debug\Homework2.csproj.GenerateResource.Cache
 C:\Users\KMU_USER\Documents\class_CS\Homework2\obj\Debug\Homework2.exe
 C:\Users\KMU_USER\Documents\class_CS\Homework2\obj\Debug\Homework2.pdb
+C:\Users\KMU_USER\class_CS\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\KMU_USER\class_CS\Homework2\obj\Debug\Homework2.exe
+C:\Users\KMU_USER\class_CS\Homework2\obj\Debug\Homework2.pdb
+C:\Users\KMU_USER\class_CS\Homework2\bin\Debug\Homework2.exe
+C:\Users\KMU_USER\class_CS\Homework2\bin\Debug\Homework2.pdb
+C:\Users\KMU_USER\class_CS\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
+C:\Users\KMU_USER\class_CS\Homework2\obj\Debug\Homework2.Form1.resources
+C:\Users\KMU_USER\class_CS\Homework2\obj\Debug\Homework2.Properties.Resources.resources
+C:\Users\KMU_USER\class_CS\Homework2\obj\Debug\Homework2.csproj.GenerateResource.Cache
